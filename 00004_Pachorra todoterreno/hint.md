@@ -1,0 +1,1 @@
+El método `firmar_contrato!` solo cambia el `ave` de `Pachorra`, no hay que hacer nada más en ese método. :eyes:
